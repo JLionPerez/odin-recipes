@@ -15,6 +15,5 @@ body {
 }
 
 .recipe {
-    display: flex;
-    /* i have no idea how to give more space between the links */
+    margin: 5px;
 }
