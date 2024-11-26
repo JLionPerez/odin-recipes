@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown
+}
+
+.recipe {
+    display: flex;
+    /* i have no idea how to give more space between the links */
+}
