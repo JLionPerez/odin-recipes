@@ -1,17 +1,22 @@
 body {
     background-color: bisque;
-    display: flex;
+    /* display: flex;
     align-items: center;
-    flex-direction: column;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: 50px;
-    margin-right: 50px;
+    flex-direction: column; */
+    /* padding: 100px 50px; */
 }
 
 .title {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: brown
+    color: brown;
+    text-align: center;
+    font-size: 40px;
+    margin: 40px 20px;
+    padding: 10px 10px;
+}
+
+.recipe-box {
+    /* something here, brain dead */
 }
 
 .recipe {
